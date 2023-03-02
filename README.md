@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://obengkenneth.github.io/nftchallenge/)
+- Live Site URL: [Solution](https://obengkenneth.github.io/nftchallenge/)
 
 ## My process
 I started with planning how to structure the page with HTML5 before styling with CSS.
